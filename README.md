@@ -1,4 +1,3 @@
-# Problema-del-viajero
 # Problema del viajero (TSP) en C++
 
 Implementaciones en C++ del **problema del viajero** (*Traveling Salesman Problem*, TSP): encontrar la ruta de menor costo que visita cada ciudad exactamente una vez y regresa al punto de partida.
